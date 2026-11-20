@@ -27,6 +27,7 @@ destinatários configurados em `EMAIL_TO`.
   do `.env.bak`. Usuário e logins não sensíveis continuam no `.env`, que nunca é
   commitado (`.gitignore`). O modelo documentado é `.env.example`.
 - Em outro computador ou usuário do Windows é preciso digitar as senhas de novo.
+- Se o Windows não deixar o cofre guardar além da sessão (política de empresa "não permitir armazenamento de senhas"), as senhas ficam no `.env`, com acesso restrito ao seu usuário, e o log da abertura diz isso (ADR-049).
 - Tokens inválidos nunca são impressos: o diagnóstico informa endpoint,
   código e dica, sem expor o segredo.
 
