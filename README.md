@@ -63,11 +63,12 @@ Detalhes em [Privacidade](docs/PRIVACIDADE.md).
 
 - Sincronização automática pela Rauzee e pelo SIOPI, em lote ou por OS/CPF, com várias abas do SIOPI ao mesmo tempo.
 - Atualização da Rauzee com a posição do SIOPI, PEPT e engenharia (valor, validade e garantia).
-- Relatório em HTML e CSV com o que precisa de ação, e envio por e-mail.
+- Relatório em HTML e CSV com o que precisa de ação, o tipo de cada OS (imóvel pronto, construção…) e o contato para vistoria, e envio por e-mail.
+- Guia Resultados com o panorama do período: laudos, atrasadas, tipos de serviço e motivos de PEPT.
 - Agendamento por horário e dias, rodando mesmo com o app fechado, e reagendamento automático das falhas.
 - Link de WhatsApp pronto para cada OS com alteração.
 - Busca rápida por OS, CPF (com ou sem pontuação) ou parte do nome do cliente, com o histórico de cada item.
-- Laudos baixados e organizados, com busca.
+- Laudos baixados e organizados, com busca, e abertos direto do relatório no app.
 
 ## 📥 Download
 
